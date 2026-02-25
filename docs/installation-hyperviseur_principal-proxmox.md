@@ -8,8 +8,8 @@ id1[NVMe0n1]
 id2[NVMe1n1]
 id3[NVMe2n1]
 
-R[Zfs RAID 1 (mirrored)]
-T[Zfs Tank (un seul disque)]
+R["Zfs RAID 1 (mirrored)"]
+T["Zfs Tank (un seul disque)"]
 
 id1 --> R
 id2 --> R
